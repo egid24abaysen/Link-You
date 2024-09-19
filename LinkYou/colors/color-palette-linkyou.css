@@ -1,0 +1,97 @@
+:root{
+    --splash:#041b30;
+    --relief:#043a45;
+    --snowstar:#10a58e;
+}
+#relief{
+    background:#043a45;
+    background:rgb(4,58,69);
+
+    background:#92b23b;
+    background:rgb(146,178,59);
+
+    background:#3c814b;
+    background:rgb(60,129,75);
+
+    background:#709a41;
+    background:rgb(112,154,65);
+
+    background:#0b1324;
+    background:rgb(11,19,36);
+
+    background:#086353;
+    background:rgb(8,99,83);
+
+    background:#42642c;
+    background:rgb(66,100,44);
+
+    background:#0c2623;
+    background:rgb(12,38,35);
+
+    background:#12b449;
+    background:rgb(18,180,73);
+    
+}#snowstar{
+background:#10a58e;
+background:rgb(16,165,142);
+
+background:#04664b;
+background:rgb(4,102,75);
+
+background:#069874;
+background:rgb(6,152,116);
+
+background:#94cdbc;
+background:rgb(148,205,188);
+
+background:#46c09e;
+background:rgb(70,192,158);
+
+background:#25e1c2;
+background:rgb(37,225,194);
+
+background:#7cbda4;
+background:rgb(124,189,164);
+
+background:#04886d;
+background:rgb(4,136,109);
+
+background:#148b6a;
+background:rgb(20,139,106);
+
+}
+#splash{
+background:#041b30;
+background:rgb(4,27,48);
+
+background:#e9eef0;
+background:rgb(233,238,240);
+
+background:#056c62;
+background:rgb(5,108,98);
+
+background:#05a280;
+background:rgb(5,162,128);
+
+background:#05454c;
+background:rgb(5,69,76);
+
+background:#7b8b9c;
+background:rgb(123,139,156);
+
+background:#464f59;
+background:rgb(70,79,89);
+
+background:#3c5364;
+background:rgb(60,83,100);
+
+background:#08334c;
+background:rgb(8,51,76);
+}.selected4icon{
+    background:#08334c;
+    background:#05a280;
+    background:#25e1c2;
+    background:#12b449;
+    background:#086353;
+    background:#92b23b;
+}
